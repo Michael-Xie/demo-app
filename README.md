@@ -2,7 +2,7 @@
 
 ## Purpose
 
-To show how useEffect is used with fetching data.
+To show how `useEffect` is used with fetching data.
 
 ## Details
 
